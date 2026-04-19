@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Tari Palastri
 
-<!--
-**own881/own881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From Jakarta, Indonesia. undergraduate student. Elixir + Flutter.
 
-Here are some ideas to get you started:
+- 🔭 Currently working at **eFishery**
+- 🌱 Actively learning **FastAPI** & **Vue.js**
+- 💬 Ask me about **REST APIs** or **software architecture**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- PostgreSQL
+- REST APIs
+- FastAPI
+- Vue.js
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=own881&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 📫 Connect with me
+[Mastodon](https://mastodon.social/@tari_palastri) | [Website](https://dev.to/tari_pala) | [Personal Site](https://taripala.site)
